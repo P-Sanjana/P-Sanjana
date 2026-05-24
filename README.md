@@ -103,14 +103,12 @@ Sanjana Podduturi = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-Sanjana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Sanjana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=P-Sanjana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=P-Sanjana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=P-Sanjana&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="60%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-Sanjana&custom_title=Sanjana%27s%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true" width="90%"/>
 </p>
@@ -136,15 +134,6 @@ Sanjana Podduturi = {
 ---
 
 ## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/P-Sanjana/job-search-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-Sanjana&repo=job-search-agent&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/P-Sanjana/lighten">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-Sanjana&repo=lighten&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 | 🤖 Project | 💡 Description | 🛠️ Stack |
 |---|---|---|
