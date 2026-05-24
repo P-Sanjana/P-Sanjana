@@ -1,0 +1,70 @@
+<svg viewBox="0 0 860 430" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <rect width="860" height="430" fill="#0d1117" rx="12"/>
+  <!-- title bar -->
+  <rect width="860" height="38" fill="#161b22" rx="12"/>
+  <rect y="22" width="860" height="16" fill="#161b22"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6" fill="#28c840"/>
+  <text x="430" y="24" text-anchor="middle" fill="#8b949e" font-size="12">sanjana@dev ~ bash</text>
+
+  <!-- whoami command -->
+  <text x="26" y="70" fill="#8b949e" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.3s" fill="freeze"/>$</text>
+  <text x="40" y="70" fill="#c9d1d9" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.6s" fill="freeze"/>whoami</text>
+  <text x="26" y="93" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.1s" fill="freeze"/>
+    <tspan fill="#a855f7" font-weight="bold">Sanjana Podduturi</tspan>
+    <tspan fill="#8b949e"> ·</tspan>
+    <tspan fill="#c9d1d9"> AI Full-Stack Engineer</tspan>
+  </text>
+
+  <!-- cat skills -->
+  <text x="26" y="126" fill="#8b949e" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.7s" fill="freeze"/>$</text>
+  <text x="40" y="126" fill="#c9d1d9" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.0s" fill="freeze"/>cat skills.txt</text>
+
+  <text x="26" y="150" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.5s" fill="freeze"/>
+    <tspan fill="#58a6ff">Languages   </tspan><tspan fill="#c9d1d9">  Python · TypeScript · Java · JavaScript</tspan>
+  </text>
+  <text x="26" y="170" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.7s" fill="freeze"/>
+    <tspan fill="#58a6ff">AI / GenAI  </tspan><tspan fill="#c9d1d9">  LangChain · RAG · FAISS · Anthropic API · OpenAI SDK</tspan>
+  </text>
+  <text x="26" y="190" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.9s" fill="freeze"/>
+    <tspan fill="#58a6ff">Frontend    </tspan><tspan fill="#c9d1d9">  React · Next.js · Redux · TypeScript</tspan>
+  </text>
+  <text x="26" y="210" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.1s" fill="freeze"/>
+    <tspan fill="#58a6ff">Backend     </tspan><tspan fill="#c9d1d9">  Spring Boot · FastAPI · Kafka · Node.js · GraphQL</tspan>
+  </text>
+  <text x="26" y="230" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.3s" fill="freeze"/>
+    <tspan fill="#58a6ff">Cloud/MLOps </tspan><tspan fill="#c9d1d9">  AWS · Docker · Kubernetes · MLflow · Terraform</tspan>
+  </text>
+
+  <!-- cat currently -->
+  <text x="26" y="263" fill="#8b949e" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.8s" fill="freeze"/>$</text>
+  <text x="40" y="263" fill="#c9d1d9" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.1s" fill="freeze"/>cat currently.txt</text>
+
+  <text x="26" y="287" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.6s" fill="freeze"/>
+    <tspan fill="#3fb950">▸ </tspan><tspan fill="#c9d1d9">MS Computer Science @ University at Buffalo  |  GPA 3.8</tspan>
+  </text>
+  <text x="26" y="307" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.8s" fill="freeze"/>
+    <tspan fill="#3fb950">▸ </tspan><tspan fill="#c9d1d9">AI Research Engineer — RAG · RLHF · LLM Safety · Alignment</tspan>
+  </text>
+  <text x="26" y="327" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.0s" fill="freeze"/>
+    <tspan fill="#3fb950">▸ </tspan><tspan fill="#c9d1d9">Open to Full-Time SWE / AI Engineer roles  |  Texas, USA</tspan>
+  </text>
+
+  <!-- final prompt + blinking cursor -->
+  <text x="26" y="362" fill="#8b949e" font-size="13.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.5s" fill="freeze"/>$</text>
+  <rect x="40" y="350" width="9" height="15" fill="#a855f7" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.7s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" begin="5.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- contact line -->
+  <text x="26" y="408" font-size="12" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="6.0s" fill="freeze"/>
+    <tspan fill="#8b949e">github </tspan>
+    <tspan fill="#58a6ff">github.com/P-Sanjana</tspan>
+    <tspan fill="#8b949e">   linkedin </tspan>
+    <tspan fill="#58a6ff">linkedin.com/in/sanjana-podduturi</tspan>
+    <tspan fill="#8b949e">   mail </tspan>
+    <tspan fill="#58a6ff">sanjana.podduturi11@gmail.com</tspan>
+  </text>
+</svg>
